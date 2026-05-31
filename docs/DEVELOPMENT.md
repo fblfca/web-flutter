@@ -140,7 +140,6 @@ data/
 - `lib/`;
 - `tool/`;
 - `docs/`;
-- `DEFENSE_GUIDE.docx`;
 - `windows/`;
 - `pubspec.yaml`;
 - `pubspec.lock`;

@@ -61,7 +61,7 @@ docs/
   ARCHITECTURE.md                   # архитектура и поток данных
   API.md                            # структура запросов RUZ API
   DEVELOPMENT.md                    # запуск, сборка, диагностика
-DEFENSE_GUIDE.docx                  # подробная шпаргалка для защиты проекта
+  DEFENSE_GUIDE.md                  # подробная шпаргалка для защиты проекта
 ```
 
 ## Быстрый запуск
@@ -113,7 +113,7 @@ flutter build windows --release
 - [Архитектура](docs/ARCHITECTURE.md)
 - [RUZ API](docs/API.md)
 - [Разработка и запуск](docs/DEVELOPMENT.md)
-- [Подготовка к защите](DEFENSE_GUIDE.docx)
+- [Подготовка к защите](docs/DEFENSE_GUIDE.md)
 
 ## Что показать на защите
 
