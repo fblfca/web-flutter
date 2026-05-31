@@ -14,3 +14,6 @@ coverage/
 windows/flutter/ephemeral/
 windows/runner/Debug/
 windows/runner/Release/
+
+# mine
+DEFENSE_GUIDE.docx
